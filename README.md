@@ -1,1 +1,1 @@
-# spring-redis-example
+# Exemplo basico spring com redis e @ConditionalOnProperty
